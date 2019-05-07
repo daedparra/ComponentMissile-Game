@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  COGMissile.cpp
+EngineX.lib(Engine.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineX.lib(Engine.obj)' or at 'C:\Users\David Parra\Desktop\Missile\Build\EngineX.pdb'; linking object as if no debug info
+EngineX.lib(RenderPacket.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineX.lib(RenderPacket.obj)' or at 'C:\Users\David Parra\Desktop\Missile\Build\EngineX.pdb'; linking object as if no debug info
+EngineX.lib(System.obj) : warning LNK4099: PDB 'EngineX.pdb' was not found with 'EngineX.lib(System.obj)' or at 'C:\Users\David Parra\Desktop\Missile\Build\EngineX.pdb'; linking object as if no debug info
+  GameEngineX.vcxproj -> C:\Users\David Parra\Desktop\Missile\.\Build\GameEngineX.exe
